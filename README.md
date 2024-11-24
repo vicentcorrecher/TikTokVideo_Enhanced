@@ -3,9 +3,9 @@
   <img src="_1KTtUKiRnW2SU6D_73_jQ.webp" style="width: 550px;">
   
 </p>
-<h1 align="center">Tiktok Video Enhancer</h1>
+<h1 align="center">TikTok Video Enhancer</h1>
 
-**Tiktok Video Enhancer** es una solución completa para mejorar la calidad de audio y video en archivos multimedia. Este script de Python extrae el audio del video, mejora su calidad eliminando ruido, ajusta el brillo y contraste del video, y luego reintegra el audio mejorado con el video original para producir un resultado de alta calidad.
+**TikTok Video Enhancer** es una solución completa para mejorar la calidad de audio y video en archivos multimedia. Este script de Python extrae el audio del video, mejora su calidad eliminando ruido, ajusta el brillo y contraste del video, y luego reintegra el audio mejorado con el video original para producir un resultado de alta calidad.
 
 ## Características
 
