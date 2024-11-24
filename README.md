@@ -1,4 +1,9 @@
-# Tiktok Video Enhancer
+
+<p align="center">
+  <img src="_1KTtUKiRnW2SU6D_73_jQ.webp" style="width: 550px;">
+  
+</p>
+<h1 align="center">Tiktok Video Enhancer</h1>
 
 **Tiktok Video Enhancer** es una solución completa para mejorar la calidad de audio y video en archivos multimedia. Este script de Python extrae el audio del video, mejora su calidad eliminando ruido, ajusta el brillo y contraste del video, y luego reintegra el audio mejorado con el video original para producir un resultado de alta calidad.
 
@@ -8,6 +13,12 @@
 - **Mejora del audio:** Aplica filtros de paso alto y bajo, normalización y exportación a alta calidad.
 - **Mejora del video:** Elimina el ruido visual, escala a 1080p, y ajusta el brillo y contraste.
 - **Reintegración:** Combina el audio procesado con el video original sin pérdida de calidad.
+
+- ### Abrir en Google Colab
+
+Ejecuta los notebooks directamente en Google Colab, utilizando el siguiente botón:
+  [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1UJ9Yq_3K8rZdyLsqdBOwgEmaRIjLpKLA?usp=sharing)
+
 
 ## Requisitos
 
